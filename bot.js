@@ -2,7 +2,7 @@ require("dotenv").config();
 require("module-alias/register");
 
 // register extenders
-require("@helpers/extenders/Message");
+/opt/render/project/src/src/helpers/extenders/Message
 require("@helpers/extenders/Guild");
 require("@helpers/extenders/GuildChannel");
 
